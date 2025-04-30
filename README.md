@@ -20,10 +20,16 @@ Frontend:
 
 
 HTML
+
 CSS
+
+
 JavaScript (jQuery)
+
 Bootstrap for styling
+
 Chessboard.js for the chessboard interface
+
 Chess.js for chess logic
 
 
@@ -32,5 +38,7 @@ Backend:
 
 
 Python
+
 Flask web framework
+
 Chess library for AI engine
